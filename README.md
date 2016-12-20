@@ -1,2 +1,3 @@
 # puppet-hpilo
-Reset ilo password from command line
+Reset ilo password
+Password should be stored in hiera. 
