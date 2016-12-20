@@ -15,11 +15,9 @@
 #
 # == Authors
 #
-# - Cesar Prieto Ballester <cesar.ballester@piksel.com>
+# - Cesar Prieto Ballester <cesarprietoballester@piksel.com>
 #
 # == Copyright
-#
-# Copyright 2016 Piksel
 #
 class ilo {
 
